@@ -1,5 +1,5 @@
 # Lab 2: Classification Using KNN and RNN Algorithms  
-**MSCS 634 – Big Data and Data Mining**  
+**MSCS-634-B01 – Big Data and Data Mining**  
 **Author: Prafulla Pradhan**
 
 ---
@@ -49,6 +49,7 @@ Using the Wine dataset from `sklearn`, this lab demonstrates how parameter tunin
 
 - `Lab2_KNN_RNN.ipynb` — Main Jupyter Notebook with all code and plots.
 - `README.md` — Overview of lab purpose, findings, and challenges.
+- `Screenshots` - Screenshots of the outputs.
 
 ---
 
